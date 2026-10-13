@@ -1,0 +1,6 @@
+{
+  "name": "모바일 터치 최적화 웹 텔레프롬프터",
+  "description": "PC, 아이패드, 아이폰 등 모바일 및 태블릿 터치 환경에 최적화된 고성능 반응형 웹 텔레프롬프터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
